@@ -1,0 +1,133 @@
+*{
+    display: block;
+}
+
+body{
+display: flex;
+}
+
+.section2 {
+padding: 3rem;
+}
+
+.block .section2{
+    position: absolute;
+    top: 150px;
+    right: 300px;
+}
+
+.block h5{
+    font-size: 20px;
+    font-weight: 600;
+    font-style: normal;
+    margin-bottom: 10px;
+}
+
+.block h6{
+font-size: 30px;
+font-weight: 600;
+font-style: normal;
+margin-bottom: 30px;
+}
+
+
+.block h2{
+font-weight: 400;
+font-size: 16px;
+line-height: 19px;
+position: absolute;
+top: 650px;
+}
+
+form .input1{
+margin-bottom: 10px;
+width: 300px;
+height: 25px;
+top: 20px;
+border-radius: 5px;
+}
+
+form .input2{
+    margin-bottom: 40px;
+    width: 300px;
+    height: 25px;
+    top: 20px;
+    border-radius: 5px;
+}
+
+
+
+.btn2{
+    display: flex;
+    background-color: black;
+}
+
+.btn2 img{
+    margin-right: 10px;
+    margin-left: 60px;
+    top: 30%;
+}
+
+a.btn2{
+    background: yellow;
+    border-radius: 10px
+}
+
+a{
+    text-align: center;
+    padding: 8px;
+    text-decoration: none;
+}
+
+.btn1{
+    margin-bottom: 20px;
+    border-radius: 5px;
+    background: greenyellow;
+}
+
+.btn{
+    text-align: center;
+}
+
+.btn2 span{
+    margin-top: 5px;
+}
+
+.iline-btns{
+    display: flex;
+    justify-content: space-between;
+}
+
+
+.chec{
+    display: flex;
+}
+
+.chec label{
+    margin-top: 8px;
+    margin-left: 3px;
+}
+
+/* .btn2 span{
+    background:  #FFFFFF;
+} */
+
+@media screen and (min-width:576px){
+    
+}
+
+@media screen and (min-width:768px){
+    
+}
+
+@media screen and (min-width:992px){
+    
+}
+
+@media screen and (min-width:1200px){
+    
+}
+
+@media screen and (min-width:1400px){
+    
+}
